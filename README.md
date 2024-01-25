@@ -1,6 +1,8 @@
 # advent-of-code-rust-starter-pack
 Basic setup for solving Advent of Code puzzles using Rust
 
+> This repo is design to help the Learning Rust Meetup events only.
+
 ## Requirements
 - Rust 1.75
 ```shell
@@ -54,5 +56,6 @@ Usage:
 ```
 
 ## TODOs:
-[ ] Input downloading
-[ ] Benchmarking
+- [ ] Input downloading
+- [ ] Benchmarking
+- [ ] Better modules design
